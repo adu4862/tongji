@@ -23,4 +23,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 docker 运行
 docker image build -t yl/tongji:v01 .
 
-docker run -dt -p 8300:3000 yl/tongji:v01
+docker run -dt -p 8080:3000 yl/tongji:v01
